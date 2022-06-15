@@ -1,0 +1,24 @@
+Create a website with functionality of this tags 
+Head
+Title
+Body
+Div
+Span
+Anchor
+Br
+Section
+Nav
+Footer
+Table
+THead(Table Header)
+TBody(Table Body)
+TR(Table Row)
+TD(Table Data)
+Script
+Img(Image)
+UL(Unordered List)
+OL(Ordered List)
+
+
+
+
